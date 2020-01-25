@@ -3,7 +3,7 @@
 <img src="pictures/allumage_led.jpeg" width=50% height=20%/>
 
 <p>
-  <h6>Commentaires Exercice_1</h6>
+  <h4>Commentaires Exercice_1</h4>
   <div>
     Sur cet exercice, il nous a été demandé d'allumer le LED.<br/>
     Pour cela, il nous a fallu :
