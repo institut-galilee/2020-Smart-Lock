@@ -1,3 +1,8 @@
-Lab1 Team Smart-Lock
+<h1>Lab1 Team : <b>Smart-Lock</b></h1>
 
-<img src="pictures/allumage_led.jpeg" />
+<img src="pictures/allumage_led.jpeg" width=50% height=50%/>
+
+<p>
+  <h6>Commentaires Exercice_1</h6>
+</p>
+
