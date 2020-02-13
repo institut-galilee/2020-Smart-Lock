@@ -14,7 +14,9 @@ Ce schéma comprend 5 composant :
 
 Voici l'illustration en image :
 
-![Image 1](https://github.com/institut-galilee/2020-Smart-Lock/blob/master/lab/2/Pictures/schematic.png)
+![squelette](https://github.com/institut-galilee/2020-Smart-Lock/blob/master/lab/2/Pictures/sketch.png)
+
+![version schematique](https://github.com/institut-galilee/2020-Smart-Lock/blob/master/lab/2/Pictures/schematic.png)
 
 <h3> Partie 2 : Communication</h3>
 
