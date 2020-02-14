@@ -14,13 +14,15 @@ Ce schéma comprend 5 composant :
 
 Voici l'illustration en image :
 
-![squelette](https://github.com/institut-galilee/2020-Smart-Lock/blob/master/lab/2/Pictures/sketch.png)
+#### En vue squelette
+![vue squelette](https://github.com/institut-galilee/2020-Smart-Lock/blob/master/lab/2/Pictures/sketch.png)
 
-![version schematique](https://github.com/institut-galilee/2020-Smart-Lock/blob/master/lab/2/Pictures/schematic.png)
+#### En vue schematique
+![vue schematique](https://github.com/institut-galilee/2020-Smart-Lock/blob/master/lab/2/Pictures/schematic.png)
 
-<h3> Partie 2 : Communication</h3>
+## Partie 2 : Communication
 
-<h3>Code</h3>
+### Code
 
 ```C
     void test(){
