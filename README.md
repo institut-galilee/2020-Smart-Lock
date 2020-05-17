@@ -2,7 +2,7 @@
 
 ## Membres du Groupe
 - Michel YABA (davhel.michael@yahoo.fr)
-- Aissata KEITA
+- Aissata KEITA (aissatakeita103@gmail.com)
 - AbdelJalil KOUACHI
 
 ## Lien vers la video de Présentation
