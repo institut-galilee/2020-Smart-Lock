@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<item
+        android:id="@+id/item1"
+        android:icon="@drawable/ic_bluetooth_black_24dp"
+        android:title="Item"
+        app:showAsAction="ifRoom"/>-->
+
+    <item
+        android:id="@+id/voir_liste"
+        android:title="Voir la liste des entrées/sorties"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/deconnect"
+        android:title="Se deconnecter"
+        app:showAsAction="never"/>
+
+
+</menu>

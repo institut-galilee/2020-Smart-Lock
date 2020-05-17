@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SmartLockApp</string>
+    <string name="login">Se connecter</string>
+    <string name="register">S\'inscrire</string>
+    <string name="register_title">Inscription</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="password2">Retaper votre mot de passe</string>
+    <string name="login_title">Connexion</string>
+    <string name="logout">Deconnexion</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="telephone">Telephone</string>
+</resources>
