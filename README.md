@@ -3,7 +3,7 @@
 ## Membres du Groupe
 - Michel YABA (davhel.michael@yahoo.fr)
 - Aissata KEITA (aissatakeita103@gmail.com)
-- AbdelJalil KOUACHI
+- Abdeldjalil KOUACHI ( abdeldjalil.kouachi@dauphine.eu)
 
 ## Lien vers la video de Présentation
 [![Video de presentation de l'application](/images/content/4279611/690cc1ce1c97ed83c883846f84451ad3.png)](https://www.youtube.com/watch?v=krarxLyfjm4)
